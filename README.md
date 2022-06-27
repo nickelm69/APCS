@@ -5,6 +5,4 @@ The FLVS AP Computer Science course
 
 -Copy at your own risk, as I will not be responsible for any plagarism concerns or claims.
 
--Modules will be uploaded as I progress in the course.
-
--Snapchat for questions: nikhilm69
+-This is shared purely for educational purposes
